@@ -1,0 +1,50 @@
+{
+  "app": {
+    "new-content": "Nuevo contenido disponible, haga clic en el botón de recargar para actualizar.",
+    "offline": "App lista para trabajar sin conexión"
+  },
+  "button": {
+    "close": "Cerca",
+    "reload": "Recargar"
+  },
+  "intro": {
+    "desc": "Bienvenido a Vitailse, plantilla de inicio de Vite con {tailwindurl}",
+    "github": "Otorgue estrellas e informe cualquier problema en nuestro {githuburl}"
+  },
+  "pages": {
+    "home": "Casa",
+    "not-found": "Página no encontrada",
+    "other": {
+      "desc": "Un ejemplo de otras páginas.",
+      "menu": "Otra página"
+    }
+  },
+  "home": {
+    "header": "Chatino-Podcast => Recursos de aprendizaje para el idioma chatino y más",
+    "navigation": {
+      "podcast": {
+        "label": "Pódcast",
+        "link": "resources/podcast"
+      },
+      "videos": {
+        "label": "Vídeos",
+        "link": "resources/videos"
+      },
+      "books": {
+        "label": "Libros",
+        "link": "resources/books"
+      },
+      "resources": {
+        "label": "Todos los recursos",
+        "link": "resources"
+      }
+    },
+    "actions": {
+      "checkPodcast": "Ver pódcast"
+    },
+    "hero": {
+      "title": "Descubra la belleza del idioma chatino: su último recurso para aprender y preservar la cultura chatina",
+      "description": "El idioma Chatino es un idioma único y vibrante hablado por el pueblo Chatino, un grupo indígena en México. \nEs parte de su rica cultura y herencia, y tiene una gramática y un vocabulario únicos que lo distinguen de otros idiomas. \nPreservar el idioma chatino es crucial para mantener la identidad cultural del pueblo chatino y para asegurar la continuidad de sus tradiciones y costumbres. \nTambién juega un papel importante en la preservación de su historia y sus historias, transmitidas de generación en generación. \nAdemás, preservar un idioma en peligro de extinción como el chatino también ayuda a preservar la diversidad lingüística del mundo, que es un aspecto importante del patrimonio humano. \nSin esfuerzos de conservación, este idioma y la cultura que transmite podrían perderse para siempre. \nEs importante tomar medidas para garantizar que la lengua y la cultura chatinas sigan prosperando."
+    }
+  }
+}

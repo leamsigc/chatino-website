@@ -1,3 +1,5 @@
 <template>
-	<router-view />
+  <Provider>
+    <Viewer />
+  </Provider>
 </template>

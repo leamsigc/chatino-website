@@ -11,10 +11,15 @@ import VueI18n from '@intlify/vite-plugin-vue-i18n';
 import generateSitemap from 'vite-ssg-sitemap';
 import VueRouter from 'unplugin-vue-router/vite';
 import { VueRouterExports } from 'unplugin-vue-router';
+import { NaiveUiResolver } from 'unplugin-vue-components/resolvers';
+import Pages from 'vite-plugin-pages';
 // https://vitejs.dev/config/
 export default defineConfig({
 	plugins: [
 		vue(),
+		Pages({
+			extensions: ['vue', 'md'],
+		}),
 		VueRouter({
 			dts: true,
 			routesFolder: 'src/pages',
@@ -25,6 +30,7 @@ export default defineConfig({
 				IconsResolver({
 					prefix: 'icon',
 				}),
+				NaiveUiResolver(),
 			],
 		}),
 		Icons({
@@ -47,6 +53,14 @@ export default defineConfig({
 				'@vueuse/core',
 				'@vueuse/head',
 				// custom
+				{
+					'naive-ui': [
+						'useDialog',
+						'useMessage',
+						'useNotification',
+						'useLoadingBar',
+					],
+				},
 			],
 
 			// custom resolvers
@@ -63,9 +77,9 @@ export default defineConfig({
 				'apple-touch-icon.png',
 			],
 			manifest: {
-				name: 'Vitailse',
-				short_name: 'Vitailse',
-				description: 'Opinionated vite template with TailwindCSS',
+				name: 'Chatino-learn',
+				short_name: 'Chatino-learn',
+				description: 'Resources to learn chatino',
 				theme_color: '#076AE0',
 				icons: [
 					{
@@ -114,7 +128,7 @@ export default defineConfig({
 		onFinished() {
 			generateSitemap();
 		},
-		mock: true
+		mock: true,
 	},
 	// https://github.com/vitest-dev/vitest
 	test: {

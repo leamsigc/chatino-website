@@ -1,22 +1,50 @@
 {
-	"pages": {
-		"home": "Home",
-		"other": {
-			"menu": "Other Page",
-			"desc": "An example of other pages"
-		},
-		"not-found": "Page not found"
-	},
-	"app": {
-		"offline": "App ready to work offline",
-		"new-content": "New content available, click on reload button to update."
-	},
-	"intro": {
-		"desc": "Welcome to Vitailse, Vite starter template with {tailwindurl}",
-		"github": "Please give stars and report any issues on our {githuburl}"
-	},
-	"button": {
-		"reload": "Reload",
-		"close": "Close"
-	}
+  "home": {
+    "navigation": {
+      "books": {
+        "label": "Books",
+        "link": "resources/books"
+      },
+      "resources": {
+        "label": "All Resources",
+        "link": "resources"
+      },
+      "podcast": {
+        "label": "Podcast",
+        "link": "resources/podcast"
+      },
+      "videos": {
+        "label": "Videos",
+        "link": "resources/videos"
+      }
+    },
+    "header": "Chatino-Podcast => Learning resources for the Chatino language and more",
+    "actions": {
+      "checkPodcast": "Check podcast"
+    },
+    "hero": {
+      "title": "Discover the Beauty of Chatino Language: Your Ultimate Resource for Learning and Preserving the Chatino Culture",
+      "description": "The Chatino language is a unique and vibrant language spoken by the Chatino people, an indigenous group in Mexico. It is a part of their rich culture and heritage, and has a unique grammar and vocabulary that sets it apart from other languages. Preserving the Chatino language is crucial for maintaining the cultural identity of the Chatino people, and for ensuring the continuity of their traditions and customs. It also plays an important role in preserving their history and stories, passed down through generations. Additionally, preserving endangered language like Chatino also helps to preserve the linguistic diversity of the world, which is an important aspect of human heritage. Without preservation efforts, this language and the culture it carries could be lost forever. It is important to take actions to ensure that the Chatino language and culture continue to thrive."
+    }
+  },
+  "app": {
+    "new-content": "New content available, click the reload button to update.",
+    "offline": "App ready to work offline"
+  },
+  "button": {
+    "close": "Close",
+    "reload": "Recharge"
+  },
+  "intro": {
+    "desc": "Welcome to Vitailse, Vite Starter Template with {tailwindurl}",
+    "github": "Please give stars and report any issues on our {githuburl}"
+  },
+  "pages": {
+    "home": "House",
+    "not-found": "Page not found",
+    "other": {
+      "desc": "An example from other pages.",
+      "menu": "Another page"
+    }
+  }
 }
