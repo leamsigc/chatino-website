@@ -2,7 +2,7 @@
 import { useStore } from "@/store";
 
 const store = useStore();
-const { t } = useI18n();
+const { t, locale } = useI18n();
 
 useHead({
   title: t("home.header"),
@@ -26,6 +26,21 @@ const homePageLinks = [
     to: t("home.navigation.resources.link"),
   },
 ];
+
+const localeOptions = [
+  {
+    label: "EN",
+    value: "en",
+  },
+  {
+    label: "DE",
+    value: "de",
+  },
+  {
+    label: "ES",
+    value: "es",
+  },
+];
 </script>
 
 <template>
@@ -47,6 +62,9 @@ const homePageLinks = [
         </div>
       </div>
       <div class="pr-4 space-x-5 right-0 flex align-middle">
+        <n-popselect v-model:value="locale" :options="localeOptions">
+          <n-button>{{ locale }}</n-button>
+        </n-popselect>
         <a href="https://anchor.fm/chatino" target="_blank" class="hidden md:inline">
           {{ t("home.actions.checkPodcast") }}
         </a>

@@ -1,0 +1,51 @@
+{
+	"app": {
+		"new-content": "Neue Inhalte verfügbar, klicken Sie zum Aktualisieren auf die Schaltfläche „Neu laden“.",
+		"offline": "App bereit, offline zu arbeiten"
+	},
+	"button": {
+		"close": "Nah dran",
+		"reload": "Aufladen"
+	},
+	"home": {
+		"actions": {
+			"checkPodcast": "Podcast prüfen"
+		},
+		"header": "Chatino-Podcast => Lernressourcen für die Sprache Chatino und mehr",
+		"hero": {
+			"description": "Die Chatino-Sprache ist eine einzigartige und lebendige Sprache, die vom Volk der Chatino, einer indigenen Gruppe in Mexiko, gesprochen wird. \nEs ist Teil ihrer reichen Kultur und ihres reichen Erbes und hat eine einzigartige Grammatik und einen einzigartigen Wortschatz, der es von anderen Sprachen unterscheidet.",
+			"smallDescription": "Die Bewahrung der Chatino-Sprache ist entscheidend für die Aufrechterhaltung der kulturellen Identität des Chatino-Volkes und für die Gewährleistung der Kontinuität ihrer Traditionen und Bräuche. \nEs spielt auch eine wichtige Rolle bei der Bewahrung ihrer Geschichte und Geschichten, die über Generationen weitergegeben wurden. \nDarüber hinaus trägt die Erhaltung gefährdeter Sprachen wie Chatino auch dazu bei, die sprachliche Vielfalt der Welt zu bewahren, die ein wichtiger Aspekt des menschlichen Erbes ist. \nOhne Bewahrungsbemühungen könnten diese Sprache und die Kultur, die sie trägt, für immer verloren sein. \nEs ist wichtig, Maßnahmen zu ergreifen, um sicherzustellen, dass die Chatino-Sprache und -Kultur weiterhin gedeiht.",
+			"title": "Entdecken Sie die Schönheit der Chatino-Sprache: Ihre ultimative Ressource zum Erlernen und Bewahren der Chatino-Kultur"
+		},
+		"navigation": {
+			"books": {
+				"label": "Bücher",
+				"link": "Ressourcen/Bücher"
+			},
+			"podcast": {
+				"label": "Podcast",
+				"link": "Quellen/Podcast"
+			},
+			"resources": {
+				"label": "Alle Ressourcen",
+				"link": "Ressourcen"
+			},
+			"videos": {
+				"label": "Videos",
+				"link": "Ressourcen/Videos"
+			}
+		}
+	},
+	"intro": {
+		"desc": "Willkommen bei Vitailse, Vite Starter Template mit {tailwindurl}",
+		"github": "Bitte geben Sie Sterne und melden Sie Probleme auf unserem {githuburl}"
+	},
+	"pages": {
+		"home": "Haus",
+		"not-found": "Seite nicht gefunden",
+		"other": {
+			"desc": "Ein Beispiel von anderen Seiten.",
+			"menu": "Eine andere Seite"
+		}
+	}
+}
