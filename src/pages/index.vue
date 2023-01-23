@@ -101,7 +101,7 @@ const localeOptions = [
           </a>
         </div>
         <div class="hidden lg:mt-0 lg:col-span-5 lg:flex">
-          <img src="img/hero_bg.png" alt="mockup" class="contrast-125 rounded-lg" />
+          <img src="/img/hero_bg.png" alt="mockup" class="contrast-125 rounded-lg" />
         </div>
       </div>
     </section>
