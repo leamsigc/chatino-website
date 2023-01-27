@@ -16,43 +16,45 @@ import { NIcon } from 'naive-ui';
 
 
 import {
-  Edit,
-  Email as EmailIcon,
-  Cyclist as ReportsIcon,
-  Folders as AllIcon,
-  Network2 as UnMerge,
-  UserProfileAlt as MyReportsIcon,
-  Filter as FilterIcon,
-  Download,
-  User as UserIcon,
-  StatusPartialFail as ErrorIcon,
-  SettingsAdjust,
-  Settings as GearIcon,
+	Edit,
+	Email as EmailIcon,
+	Cyclist as ReportsIcon,
+	Folders as AllIcon,
+	Network2 as UnMerge,
+	UserProfileAlt as MyReportsIcon,
+	Filter as FilterIcon,
+	Download,
+	User as UserIcon,
+	StatusPartialFail as ErrorIcon,
+	SettingsAdjust,
+	Settings as GearIcon,
+	Microphone, Book, Video
 } from '@vicons/carbon';
 
 const icons = {
-  EmailIcon,
-  ReportsIcon,
-  AllIcon,
-  MyReportsIcon,
-  UnMerge,
-  FilterIcon,
-  Download,
-  UserIcon,
-  Image,
-  ErrorIcon,
-  SettingsAdjust,
-  GearIcon,
+	EmailIcon,
+	ReportsIcon,
+	AllIcon,
+	MyReportsIcon,
+	UnMerge,
+	FilterIcon,
+	Download,
+	UserIcon,
+	Image,
+	ErrorIcon,
+	SettingsAdjust,
+	GearIcon,
+	Microphone, Book, Video
 };
 
 type IconTypes = keyof typeof icons;
 
 const props = defineProps({
-  ...NIcon.props,
-  type: {
-    type: String,
-    default: 'fallback',
-  },
+	...NIcon.props,
+	type: {
+		type: String,
+		default: 'MyReportsIcon',
+	},
 });
 
 const icon = icons[props.type as IconTypes];
@@ -62,10 +64,14 @@ const icon = icons[props.type as IconTypes];
 import { defineComponent, h } from 'vue';
 
 export default defineComponent({
-  name: 'IconLocal',
+	name: 'IconLocal',
 });
 </script>
 <template>
-  <n-icon v-bind="props"><icon /></n-icon>
+	<n-icon v-bind="props">
+		<icon />
+	</n-icon>
 </template>
-<style scoped></style>
+<style scoped>
+
+</style>
