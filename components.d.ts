@@ -36,6 +36,7 @@ declare module '@vue/runtime-core' {
     NSpace: typeof import('naive-ui')['NSpace']
     NStatistic: typeof import('naive-ui')['NStatistic']
     NSwitch: typeof import('naive-ui')['NSwitch']
+    NumberContainer: typeof import('./src/components/NumberContainer.vue')['default']
     PodcastListView: typeof import('./src/components/PodcastListView.vue')['default']
     Provider: typeof import('./src/components/core/Provider.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
