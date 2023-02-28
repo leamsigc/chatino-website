@@ -1,850 +1,810 @@
 [
 	{
-		"Chatino": "ska",
+		"Chatino": "SkaA",
 		"numero": 1,
 		"Espanol": "uno",
 		"English": "Inglés: one",
-		"example": "Ej.: ska⁴ yka²⁴ nk7a⁴²: un árbol verde.",
-		"": ""
+		"example": "Ej.: skaA ykaA nkqaG: un árbol verde.",
+		"": "a green tree"
 	},
 	{
-		"Chatino": "tkwa²⁴",
+		"Chatino": "TkwaJ",
 		"numero": 2,
 		"Espanol": "dos",
 		"English": "Inglés: two",
-		"example": "Ej.: tkwa²⁴ yka²⁴ nk7a⁴²: dos árboles verdes.",
-		"": ""
+		"example": "Ej.: tkwaJ ykaJ nkqaG: dos árboles verdes.",
+		"": "two green trees"
 	},
 	{
-		"Chatino": "sna²⁰",
+		"Chatino": "SnaH",
 		"numero": 3,
 		"Espanol": "Tres",
 		"English": "Inglés: Three",
-		"example": "Ej.: sna²⁰ yka²⁴ nk7a⁴²: dos árboles verdes.",
+		"example": "Ej.: snaH ykaJ nkqaG: dos árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "ja⁴ kwa⁴",
+		"Chatino": "JaA kwaA",
 		"numero": 4,
 		"Espanol": "cuatro",
 		"English": "Inglés: four",
-		"example": "Ej.: ja⁴ kwa⁴ yka²⁴ nk7a⁴²: cuatro árboles verdes.",
+		"example": "Ej.: jaA kwaA ykaJ nkqaG: cuatro árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "7yu²⁴",
+		"Chatino": "QyuJ",
 		"numero": 5,
 		"Espanol": "cinco",
 		"English": "Inglés: five",
-		"example": "Ej.: 7yu²⁴ yka²⁴ nk7a⁴²: cinco árboles verdes.",
+		"example": "Ej.: qyuJ ykaJ nkqaG: cinco árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "skwa²⁴",
+		"Chatino": "SkwaJ",
 		"numero": 6,
 		"Espanol": "seis",
 		"English": "Inglés: six",
-		"example": "Ej.: skwa²⁴ yka²⁴ nk7a⁴²: seis árboles verdes.",
+		"example": "Ej.: skwaJ ykaJ nkqaG: seis árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kti²⁴",
+		"Chatino": "ktiJ",
 		"numero": 7,
 		"Espanol": "siete",
 		"English": "Inglés: seven",
-		"example": "Ej.: kti²⁴ yka²⁴ nk7a⁴²: siete árboles verdes.",
+		"example": "Ej.: ktiJ ykaJ nkqaG: siete árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "sno7",
+		"Chatino": "SnoqA",
 		"numero": 8,
 		"Espanol": "ocho",
 		"English": "Inglés: eight",
-		"example": "Ej.: sno7⁴ yka²⁴ nk7a⁴²: ocho árboles verdes.",
+		"example": "Ej.: snoqA ykaJ nkqaG: ocho árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "ka² a³",
+		"Chatino": "KaJ",
 		"numero": 9,
-		"Espanol": "ja4=la32",
-		"English": "Ej.: ka²⁴ yka²⁴ nk7a⁴²: nueve árboles verdes.",
+		"Espanol": "Ej.: kaJ ykaJ nkqaG: nueve árboles verdes.",
+		"English": "",
 		"example": "",
 		"": ""
 	},
 	{
-		"Chatino": "ti²⁴",
+		"Chatino": "TiJ",
 		"numero": 10,
 		"Espanol": "diez",
 		"English": "Inglés: ten",
-		"example": "Ej.: ti²⁴ yka²⁴ nk7a⁴²: diez árboles verdes.",
+		"example": "Ej.: tiJ ykaJ nkqaG: diez árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "ti²⁴ xka³²",
+		"Chatino": "TiJ xkaI",
 		"numero": 11,
 		"Espanol": "once",
 		"English": "Inglés: eleven",
-		"example": "Ej.: ti²⁴ xka³² yka²⁴ nk7a⁴²: ce - árboles verdes.",
+		"example": "Ej.: tiJ xkaI ykaJ nkqaG: ce - árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "ti²⁴ tykwa²⁰",
+		"Chatino": "TiJ tykwaH",
 		"numero": 12,
 		"Espanol": "doce",
 		"English": "Inglés: twelve",
-		"example": "Ej.: ti²⁴ tykwa²⁰ yka²⁴ nk7a⁴²: doce árboles verdes.",
+		"example": "Ej.: tiJ tykwaH ykaJ nkqaG: doce árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "ti²⁴ tykwa²⁰",
+		"Chatino": "TiJ tykwaH",
 		"numero": 12,
 		"Espanol": "doce",
 		"English": "Inglés: twelve",
-		"example": "Ej.: doce árboles verdes: ti²⁴ tykwa²⁰ yka²⁴ nk7a⁴².",
+		"example": "Ej.: doce árboles verdes: tiJ tykwaH ykaJ nkqaG.",
 		"": ""
 	},
 	{
-		"Chatino": "ti²⁴ xna²⁰",
+		"Chatino": "TiJ xnaH",
 		"numero": 13,
 		"Espanol": "trece",
 		"English": "Inglés: thirteen",
-		"example": "Ej.: ti²⁴ xna²⁰ yka²⁴ nk7a⁴²: trece árboles verdes.",
+		"example": "Ej.: tiJ xnaH ykaJ nkqaG: trece árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "ti²⁴ lykwa³²",
+		"Chatino": "TiJ lykwaI",
 		"numero": 14,
 		"Espanol": "catorce",
 		"English": "Inglés: fourteen",
-		"example": "Ej.: ti²⁴ lkwa³² yka²⁴ nk7a⁴²: catorce árboles  verdes.",
+		"example": "Ej.: tiJ lkwaI ykaJ nkqaG: catorce árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "7nyo²⁴⁺",
+		"Chatino": "QnyoJ",
 		"numero": 15,
 		"Espanol": "quince",
 		"English": "Inglés: fifteen",
-		"example": "Ej.: 7nyo²⁴ yka²⁴ nk7a⁴²: quince árboles verdes.",
+		"example": "Ej.: qnyoJ ykaJ nkqaG: quince árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "7nyo²⁴ xka³²",
+		"Chatino": "QnyoJ xkaI",
 		"numero": 16,
 		"Espanol": "dieciséis",
 		"English": "Inglés: sixteen",
-		"example": "Ej.: 7nyo²⁴ xka³² yka²⁴ nk7a⁴²: dieciséis árboles  verdes.",
+		"example": "Ej.: qnyoJ xkaI ykaJ nkqaG: dieciséis árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "7nyo²⁴ tykwa³²",
+		"Chatino": "QnyoJ tykwaI",
 		"numero": 17,
 		"Espanol": "diecisiete",
 		"English": "Inglés: seventeen",
-		"example": "Ej.: 7nyo²⁴ tykwa³ yka²⁴ nk7a⁴²²:  diecisiete árboles verdes.",
+		"example": "Ej.: qnyoJ tykwa³ ykaJ nkqaG²: diecisiete árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "7nyo²⁴ xna²⁰",
+		"Chatino": "QnyoJ xnaH",
 		"numero": 18,
 		"Espanol": "dieciocho",
 		"English": "Inglés: eighteen",
-		"example": "Ej.: 7nyo²⁴ xna²⁰ yka²⁴ nk7a⁴²: dieciocho  árboles verdes.",
+		"example": "Ej.: qnyoJ xnaH ykaJ nkqaG: dieciocho árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "7nyo²⁴ lkwa³²",
+		"Chatino": "QnyoJ lkwaI",
 		"numero": 19,
 		"Espanol": "diecinueve",
 		"English": "Inglés: nineteen",
-		"example": "Ej.: 7nyo²⁴ lkwa³² yka²⁴ nk7a⁴²: diecinueve  árboles verdes.",
+		"example": "Ej.: qnyoJ lkwaI ykaJ nkqaG: diecinueve árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴",
+		"Chatino": "KlaJ",
 		"numero": 20,
 		"Espanol": "veinte",
 		"English": "Inglés: twenty",
-		"example": "Ej.: kla²⁴ yka²⁴ nk7a⁴²: veinte árboles verdes. kla²⁴ [Potencial del verbo yla⁴² llegar {acá / allí}=base].",
+		"example": "Ej.: klaJ ykaJ nkqaG: veinte árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹⁴ ska⁰",
+		"Chatino": "KlaJ ndwaB skaK",
 		"numero": 21,
 		"Espanol": "veintiuno",
 		"English": "Inglés: twenty-one",
-		"example": "Ej.: kla²⁴ ndwa¹⁴ ska⁰ yka²⁴ nk7a⁴²:  veintiuno árboles verdes.",
+		"example": "Ej.: klaJ ndwaB skaK ykaJ nkqaG: veintiuno árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹⁴ tkwa²⁰",
+		"Chatino": "KlaJ ndwaB tkwaH",
 		"numero": 22,
 		"Espanol": "veintidós",
 		"English": "Inglés: twenty-two",
-		"example": "Ej.: kla²⁴ ndwa¹⁴ tkwa²⁰ yka²⁴ nk7a⁴²: veintidós árboles verdes.",
+		"example": "Ej.: klaJ ndwaB tkwaH ykaJ nkqaG: veintidós árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹⁴ sna²⁰",
+		"Chatino": "KlaJ ndwaB snaH",
 		"numero": 23,
 		"Espanol": "veintitrés",
 		"English": "Inglés: twenty-three",
-		"example": "Ej.: kla²⁴ ndwa¹⁴ sna²⁰ yka²⁴ nk7a⁴²: veintitrés árboles verdes.",
+		"example": "Ej.: klaJ ndwaB snaH ykaJ nkqaG: veintitrés árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹⁴ ja²⁰ kwa²⁴",
+		"Chatino": "KlaJ ndwaB jaH kwaJ",
 		"numero": 24,
 		"Espanol": "veinticuatro",
 		"English": "Inglés: twenty-four",
-		"example": "Ej.: kla²⁴ ndwa¹⁴ ja²⁰ kwa²⁴ yka²⁴ nk7a⁴²: veinticuatro árboles verdes.",
+		"example": "Ej.: klaJ ndwaB jaH kwaJ ykaJ nkqaG: veinticuatro árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ 7yu¹",
+		"Chatino": "KlaJ qyuE",
 		"numero": 25,
 		"Espanol": "veinticinco",
 		"English": "Inglés: twenty-five",
-		"example": "Ej.: kla²⁴ 7yu¹⁴ yka²⁴ nk7a⁴²: veinticinco  árboles verdes.",
+		"example": "Ej.: klaJ qyuB ykaJ nkqaG: veinticinco árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹ skwa²⁰",
+		"Chatino": "KlaJ ndwaE skwaH",
 		"numero": 26,
 		"Espanol": "veintiséis",
 		"English": "Inglés: twenty-six",
-		"example": "Ej.: kla²⁴ ndwa¹ skwa²⁰ yka²⁴ nk7a⁴²: veintiséis árboles verdes.",
+		"example": "Ej.: klaJ ndwaE skwaH ykaJ nkqaG: veintiséis árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹ kti²⁰",
+		"Chatino": "KlaJ ndwaE ktiH",
 		"numero": 27,
 		"Espanol": "veintisiete",
 		"English": "Inglés: twenty-seven",
-		"example": "Ej.: kla²⁴ ndwa¹ kti²⁰ yka²⁴ nk7a⁴²:  veintisiete árboles verdes.",
+		"example": "Ej.: klaJ ndwaE ktiH ykaJ nkqaG: veintisiete árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹ sno7²⁰",
+		"Chatino": "KlaJ ndwaE snoqH",
 		"numero": 28,
 		"Espanol": "veintiocho",
 		"English": "Inglés: twenty-eight",
-		"example": "Ej.: kla²⁴ ndwa¹ sno7²⁰ yka²⁴ nk7a⁴²: veintiocho árboles verdes.",
+		"example": "Ej.: klaJ ndwaE snoqH ykaJ nkqaG: veintiocho árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ ndwa¹ kaa²⁰",
+		"Chatino": "KlaJ ndwaE kaH",
 		"numero": 29,
 		"Espanol": "veintinueve",
 		"English": "Inglés: twenty-nine",
-		"example": "Ej.: kla²⁴ ndwa¹ ka²⁰ yka²⁴ nk7a⁴²:  veintinueve árboles verdes.",
+		"example": "Ej.: klaJ ndwaE kaH ykaJ nkqaG: veintinueve árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰",
+		"Chatino": "KlaJ tyiH",
 		"numero": 30,
 		"Espanol": "treinta",
 		"English": "Inglés: thirty",
-		"example": "Ej.: kla²⁴ tyi²⁰ yka²⁴ nk7a⁴²: treinta árboles verdes.",
+		"example": "Ej.: klaJ tyiH ykaJ nkqaG: treinta árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ ska²⁰",
+		"Chatino": "KlaJ tyiH ndwaB skaH",
 		"numero": 31,
 		"Espanol": "treinta y uno",
 		"English": "Inglés: thirty-one",
-		"example": "Ej.: kla²⁴ tyi²⁰ ndwa¹⁴ ska²⁰ yka²⁴ nk7a⁴²: treinta y un árboles verdes.",
+		"example": "Ej.: klaJ tyiH ndwaB skaH ykaJ nkqaG: treinta y un árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ tkwa²⁰",
+		"Chatino": "KlaJ tyiH ndwaB tkwaH",
 		"numero": 32,
 		"Espanol": "treinta y dos",
 		"English": "Inglés: thirty-two",
-		"example": "Ej.: kla²⁴ tyi²⁰ ndwa¹⁴ tkwa²⁰ yka²⁴ nk7a⁴²: treinta y dos árboles verdes.",
+		"example": "Ej.: klaJ tyiH ndwaB tkwaH ykaJ nkqaG: treinta y dos árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ sna²⁰",
+		"Chatino": "KlaJ tyiH ndwaB snaH",
 		"numero": 33,
 		"Espanol": "treinta y tres",
 		"English": "Inglés: thirty-three",
-		"example": "Ej.: kla²⁴ tyi²⁰ ndwa¹⁴ sna²⁰ yka²⁴ nk7a⁴²: treinta y tres árboles verdes.",
+		"example": "Ej.: klaJ tyiH ndwaB snaH ykaJ nkqaG: treinta y tres árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ ja²⁰ kwa²⁴",
+		"Chatino": "KlaJ tyiH ndwaB jaH kwaJ",
 		"numero": 34,
 		"Espanol": "treinta y cuatro",
 		"English": "Inglés: thirty-four",
-		"example": "Ej.: kla²⁴ tyi²⁰ dwa²⁴ ja²⁰ kwa² yka² nk7a⁴²: treinta y cuatro árboles verdes.",
+		"example": "Ej.: klaJ tyiH dwaJ jaH kwa² yka² nkqaG: treinta y cuatro árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ 7nyo¹⁴",
+		"Chatino": "KlaJ qnyoB",
 		"numero": 35,
 		"Espanol": "treinta y cinco",
 		"English": "Inglés: thirty-five",
-		"example": "Ej.: kla²⁴ 7nyo¹⁴ yka²⁴ nk7a⁴²: treinta y  cinco árboles verdes.",
+		"example": "Ej.: klaJ qnyoB ykaJ nkqaG: treinta y cinco árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ skwa²⁰",
+		"Chatino": "KlaJ tyiH ndwaB skwaH",
 		"numero": 36,
 		"Espanol": "treinta y seis",
 		"English": "Inglés: thirty-six",
-		"example": "Ej.: kla²⁴ tyi²⁰ ndwa¹⁴ skwa²⁰ yka²⁴ nk7a⁴²: treinta y seis árboles verdes.",
+		"example": "Ej.: klaJ tyiH ndwaB skwaH ykaJ nkqaG: treinta y seis árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ kti²⁰",
+		"Chatino": "KlaJ tyiH ndwaB ktiH",
 		"numero": 37,
 		"Espanol": "treinta y siete",
 		"English": "Inglés: thirty-seven",
-		"example": "Ej.: kla²⁴ tyi²⁰ ndwa¹⁴ kti²⁰ yka²⁴ nk7a⁴²: treinta y siete árboles verdes.",
+		"example": "Ej.: klaJ tyiH ndwaB ktiH ykaJ nkqaG: treinta y siete árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ sno7²⁰",
+		"Chatino": "KlaJ tyiH ndwaB snoqH",
 		"numero": 38,
 		"Espanol": "treinta y ocho",
 		"English": "Inglés: thirty-eight",
-		"example": "Ej.: kla²⁴ tyi²⁰ ndwa¹⁴ sno7²⁰ yka²⁴ nk7a⁴²: treinta y ocho árboles verdes.",
+		"example": "Ej.: klaJ tyiH ndwaB snoqH ykaJ nkqaG: treinta y ocho árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "kla²⁴ tyi²⁰ ndwa¹⁴ ka²⁰",
+		"Chatino": "KlaJ tyiH ndwaB kaH",
 		"numero": 39,
 		"Espanol": "treinta y nueve",
 		"English": "Inglés: thirty-nine",
-		"example": "Ej.: kla²⁴ tyi²⁰ ndwa¹⁴ ka²⁰ yka²⁴ nk7a⁴²: treinta y nueve árboles verdes.",
+		"example": "Ej.: klaJ tyiH ndwaB kaH ykaJ nkqaG: treinta y nueve árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴",
+		"Chatino": "TqwaJ",
 		"numero": 40,
 		"Espanol": "cuarenta",
 		"English": "Inglés: forty",
-		"example": "Ej.: t7wa²⁴ yka²⁴ nk7a⁴²: cuarenta árboles verdes.",
+		"example": "Ej.: tqwaJ ykaJ nkqaG: cuarenta árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa⁰ ska⁰",
+		"Chatino": "TqwaJ ndwaK skaK",
 		"numero": 41,
 		"Espanol": "cuarenta y uno",
 		"English": "Inglés: forty-one",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ ska²⁰ yka²⁴ nk7a⁴²: cuarenta y un árboles verdes.",
+		"example": "Ej.: tqwaJ ndwaB skaH ykaJ nkqaG: cuarenta y un árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ tkwa²⁰",
+		"Chatino": "TqwaJ ndwaB tkwaH",
 		"numero": 42,
 		"Espanol": "cuarenta y dos",
 		"English": "Inglés: forty-two",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ tkwa²⁰ yka²⁴ nk7a⁴²: cuarenta y dos árboles verdes.",
+		"example": "Ej.: tqwaJ ndwaB tkwaH ykaJ nkqaG: cuarenta y dos árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ tkwa²⁰",
-		"numero": 42,
-		"Espanol": "cuarenta y dos:",
-		"English": "Inglés: forty-two",
-		"example": "Ej.: cuarenta y dos árboles  verdes: t7wa²⁴ ndwa¹⁴ tkwa²⁰ yka²⁴ nk7a⁴².",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ sna²⁰",
+		"Chatino": "TqwaJ ndwaB snaH",
 		"numero": 43,
 		"Espanol": "cuarenta y tres",
 		"English": "Inglés: forty-three",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ sna²⁰ yka²⁴ nk7a⁴²: cuarenta y tres árboles verdes.",
+		"example": "Ej.: tqwaJ ndwaB snaH ykaJ nkqaG: cuarenta y tres árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ ja²⁰ kwa²⁴",
+		"Chatino": "TqwaJ ndwaB jaH kwaJ",
 		"numero": 44,
 		"Espanol": "cuarenta y cuatro",
 		"English": "Inglés: forty-four",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ ja²⁰ kwa²⁴ yka²⁴ nk7a⁴²: cuarenta y cuatro árboles verdes.",
+		"example": "Ej.: tqwaJ ndwaB jaH kwaJ ykaJ nkqaG: cuarenta y cuatro",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ 7yu¹⁴",
+		"Chatino": "TqwaJ qyuJ",
 		"numero": 45,
 		"Espanol": "cuarenta y cinco",
-		"English": "Inglés: forty-five",
-		"example": "Ej.: t7wa²⁴ 7yu¹⁴ ka⁰: cuarenta y cinco  árboles verdes.",
-		"": ""
+		"English": "Inglés: forty five",
+		"example": "tqwaJ qyuJ ykaE nkqaG",
+		"": "cuarenta y cinco árboles verdes."
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ skwa²⁰",
+		"Chatino": "TqwaJ ndwaB skwaH",
 		"numero": 46,
 		"Espanol": "cuarenta y seis",
-		"English": "Inglés: forty-six",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ skwa²⁰ yka²⁴ nk7a⁴²: cuarenta y seis árboles verdes.",
+		"English": "",
+		"example": "Ej.: tqwaJ ndwaB skwaH ykaJ nkqaG: cuarenta y seis árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ kti²⁰",
+		"Chatino": "TqwaJ ndwaB ktiH",
 		"numero": 47,
 		"Espanol": "cuarenta y siete",
-		"English": "Inglés: forty-seven",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ kti²⁰ yka²⁴ nk7a⁴²: cuarenta y siete árboles verdes.",
+		"English": "",
+		"example": "Ej.: tqwaJ ndwaB ktiH ykaJ nkqaG: cuarenta y siete árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ sno7²⁰",
+		"Chatino": "TqwaJ ndwaB snoqH",
 		"numero": 48,
 		"Espanol": "cuarenta y ocho",
-		"English": "Inglés: forty-eight",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ sno7²⁰ yka²⁴ nk7a⁴²: cuarenta y ocho árboles verdes.",
-		"": ""
+		"English": "",
+		"example": "Ej.: tqwaJ ndwaB snoqH ykaJ nkqaG",
+		"": "cuarenta y ocho árboles verdes:."
 	},
 	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ sno7²⁰",
-		"numero": 48,
-		"Espanol": "cuarenta y ocho:",
-		"English": "Inglés: forty-eight",
-		"example": "Ej.: cuarenta y ocho árboles  verdes: t7wa²⁴ ndwa¹⁴ sno7²⁰ yka²⁴ nk7a⁴².",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ ndwa¹⁴ kaa²⁰",
+		"Chatino": "TqwaJ ndwaB kaH",
 		"numero": 49,
 		"Espanol": "cuarenta y nueve",
-		"English": "Inglés: forty-nine",
-		"example": "Ej.: t7wa²⁴ ndwa¹⁴ ka²⁰ yka²⁴ nk7a⁴²: cuarenta y nueve árboles verdes.",
+		"English": "",
+		"example": "Ej.: tqwaJ ndwaB kaH ykaJ nkqaG: cuarenta y nueve árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ tyi²⁰",
+		"Chatino": "TqwaJ tyiH",
 		"numero": 50,
-		"Espanol": "cincuenta",
-		"English": "Inglés: fifty",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ yka²⁴ nk7a⁴²: cincuenta árboles  verdes.",
+		"Espanol": "ciencuenta",
+		"English": "",
+		"example": "Ej.: tqwaJ tyiH ykaJ nkqaG: cincuenta árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ tyi²⁰",
-		"numero": 50,
-		"Espanol": "cincuenta:",
-		"English": "Inglés: fifty",
-		"example": "Ej.: cincuenta árboles verdes: t7wa²⁴ tyi²⁰ yka²⁴ nk7a⁴².",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ ska⁰",
+		"Chatino": "TqwaJ tyiH ndwaB skaK",
 		"numero": 51,
 		"Espanol": "cincuenta y uno",
-		"English": "Inglés: fifty-one",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ ska⁰ yka²⁴ nk7a⁴²: cincuenta y un árboles verdes.",
+		"English": "",
+		"example": "Ej.: tqwaJ tyiH ndwaB skaK ykaJ nkqaG: cincuenta y un árboles verdes.",
 		"": ""
 	},
 	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ tkwa²⁰",
+		"Chatino": "TqwaJ tyiH ndwaB tkwaH",
 		"numero": 52,
-		"Espanol": "cincuenta y dos",
-		"English": "Inglés: fifty-two",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ tkwa²⁰ yka²⁴ nk7a⁴²: cincuenta y dos árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ sna²⁰",
-		"numero": 53,
-		"Espanol": "cincuenta y tres",
-		"English": "Inglés: fifty-three",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ sna²⁰ yka²⁴ nk7a⁴²: cincuenta y tres árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ sna²⁰",
-		"numero": 53,
-		"Espanol": "cincuenta y tres:",
-		"English": "Inglés: fifty-three",
-		"example": "Ej.: cincuenta y tres  árboles verdes: t7wa²⁴ tyi²⁰ ndwa¹⁴ sna²⁰ yka²⁴ nk7a⁴².",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ ja²⁰ kwa²⁴",
-		"numero": 54,
-		"Espanol": "cincuenta y cuatro",
-		"English": "Inglés: fifty-four",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ ja²⁰ kwa²⁴ yka²⁴ nk7a⁴²: cincuenta y cuatro árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ 7nyo¹⁴",
-		"numero": 55,
-		"Espanol": "cincuenta y cinco",
-		"English": "Inglés: fifty-five",
-		"example": "Ej.: t7wa²⁴ 7nyo¹⁴ ka⁰: cincuenta y  cinco vacas.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ skwa²⁰",
-		"numero": 56,
-		"Espanol": "cincuenta y seis",
-		"English": "Inglés: fifty-six",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ skwa²⁰ yka²⁴ nk7a⁴²: cincuenta y seis árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ skwa²⁰",
-		"numero": 56,
-		"Espanol": "cincuenta y seis:",
-		"English": "Inglés: fifty-six",
-		"example": "Ej.: cincuenta y seis  árboles verdes: t7wa²⁴ tyi²⁰ ndwa¹⁴ skwa²⁰ yka²⁴ nk7a⁴².",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ kti²⁰",
-		"numero": 57,
-		"Espanol": "cincuenta y siete",
-		"English": "Inglés: fifty-seven",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ kti²⁰ yka²⁴ nk7a⁴²: cincuenta y siete árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ sno7²⁰",
-		"numero": 58,
-		"Espanol": "cincuenta y ocho",
-		"English": "Inglés: fifty-eight",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ sno7²⁰ yka²⁴ nk7a⁴²: cincuenta y ocho árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ kaa²⁰",
-		"numero": 59,
-		"Espanol": "cincuenta y nueve",
-		"English": "Inglés: fifty-nine",
-		"example": "Ej.: t7wa²⁴ tyi²⁰ ndwa¹⁴ ka²⁰ yka²⁴ nk7a⁴²: cincuenta y nueve árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "t7wa²⁴ tyi²⁰ ndwa¹⁴ kaa²⁰",
-		"numero": 59,
-		"Espanol": "cincuenta y nueve:",
-		"English": "Inglés: fifty-nine",
-		"example": "Ej.: cincuenta y nueve  árboles verdes: t7wa²⁴ tyi²⁰ ndwa¹⁴ ka²⁰ yka²⁴ nk7a⁴².",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² ndwa¹⁴ ska¹",
-		"numero": 61,
-		"Espanol": "sesenta y uno",
-		"English": "Inglés: sixty-one",
-		"example": "Ej.: sna²⁴ yla² ndwa¹⁴ ska¹ yka²⁴ nk7a⁴²: sesenta y uno árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² ndwa¹⁴ tkwa²⁰",
-		"numero": 62,
-		"Espanol": "sesenta y dos",
-		"English": "Inglés: sixty-two",
-		"example": "Ej.: sna²⁴ yla² ndwa¹⁴ tkwa²⁰ yka²⁴ nk7a⁴²: sesenta y dos árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² ndwa¹⁴ sna²⁰",
-		"numero": 63,
-		"Espanol": "sesenta y tres",
-		"English": "Inglés: sixty-three",
-		"example": "Ej.: sna²⁴ yla² ndwa¹⁴ sna²⁰ yka²⁴ nk7a⁴²: sesenta y tres árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² ndwa¹⁴ ja²⁰ kwa²⁴",
-		"numero": 64,
-		"Espanol": "sesenta y cuatro",
-		"English": "Inglés: sixty-four",
-		"example": "Ej.: sna²⁴ yla² ndwa¹⁴ ja²⁰ kwa²⁴ yka²⁴ nk7a⁴²: sesenta y cuatro árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ 7yu¹",
-		"numero": 65,
-		"Espanol": "sesenta y cinco",
-		"English": "Inglés: sixty-five",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ 7yu¹ yka²⁴ nk7a⁴²: sesenta y cinco árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla²",
-		"numero": 66,
-		"Espanol": "sesenta",
-		"English": "Inglés: sixty",
-		"example": "Ej.: sna²⁴ yla² yka²⁴ nk7a⁴²: sesenta árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² ndwa¹⁴ skwa²⁰",
-		"numero": 66,
-		"Espanol": "sesenta y seis",
-		"English": "Inglés: sixty-six",
-		"example": "Ej.: sna²⁴ yla² ndwa¹⁴ skwa²⁰ yka²⁴ nk7a⁴²: sesenta y seis árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² ndwa¹⁴ sno7²⁰",
-		"numero": 68,
-		"Espanol": "sesenta y ocho",
-		"English": "Inglés: sixty-eight",
-		"example": "Ej.: sna²⁴ yla² ndwa¹⁴ sno7²⁰ yka²⁴ nk7a⁴²: sesenta y ocho árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² ndwa¹⁴ kaa²⁰",
-		"numero": 69,
-		"Espanol": "sesenta y nueve",
-		"English": "Inglés: sixty-nine",
-		"example": "Ej.: sna²⁴ yla² ndwa¹⁴ ka²⁰ yka²⁴ nk7a⁴²: sesenta y nueve árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ tii¹",
-		"numero": 70,
-		"Espanol": "setenta",
-		"English": "Inglés: seventy",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ ti¹ yka²⁴ nk7a⁴²:  setenta árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ tii²⁴ xka³²",
-		"numero": 71,
-		"Espanol": "setenta y uno",
-		"English": "Inglés: seventy-one",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ tii²⁴ xka³² yka²⁴ nk7a⁴²: setenta y un árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ ti²⁴ tykwa²⁰",
-		"numero": 72,
-		"Espanol": "setenta y dos",
-		"English": "Inglés: seventy-two",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ ti²⁴ tykwa²⁰ yka²⁴ nk7a⁴²: setenta y dos árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ tii²⁴ xna²⁰",
-		"numero": 73,
-		"Espanol": "setenta y tres",
-		"English": "Inglés: seventy-three",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ tii²⁴ xna²⁰ yka²⁴ nk7a⁴²: setenta y tres árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ ti²⁴ ykwa³²",
-		"numero": 74,
-		"Espanol": "setenta y cuatro",
-		"English": "Inglés: seventy-four",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ ti²⁴ ykwa³² yka²⁴ nk7a⁴²: setenta y cuatro árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ 7nyo¹",
-		"numero": 75,
-		"Espanol": "setenta y cinco",
-		"English": "Inglés: seventy-five",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ 7nyo¹ yka²⁴ nk7a⁴²: setenta y cinco árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ 7nyo¹ xka³²",
-		"numero": 76,
-		"Espanol": "setenta y seis",
-		"English": "Inglés: seventy-six",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ 7nyo¹ xka³² yka²⁴ nk7a⁴²: setenta y seis árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": " sna²⁴ yla² s7wi¹ 7nyo²⁴ tykwa²⁰",
-		"numero": 77,
-		"Espanol": "setenta y siete",
-		"English": "Inglés: seventy-seven",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ 7nyo²⁴ tykwa²⁰ yka²⁴ nk7a⁴²",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ 7nyo²⁴ xna²⁰",
-		"numero": 78,
-		"Espanol": "setenta y ocho",
-		"English": "Inglés: seventy-eight",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ 7nyo²⁴ xna²⁰ yka²⁴ nk7a⁴² setenta y ocho árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "sna²⁴ yla² s7wi¹ 7nyo²⁴ ykwa³²",
-		"numero": 79,
-		"Espanol": "setenta y nueve",
-		"English": "Inglés: seventy-nine",
-		"example": "Ej.: sna²⁴ yla² s7wi¹ 7nyo²⁴ ykwa³² yka²⁴ nk7a⁴² setenta y nueve árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla²",
-		"numero": 80,
-		"Espanol": "ochenta",
-		"English": "Inglés: eighty",
-		"example": "Ej.: ja⁴ kwa⁴ yla² yka²⁴ nk7a⁴²: ochenta árboles  verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹ ska¹",
-		"numero": 81,
-		"Espanol": "ochenta y uno",
-		"English": "Inglés: eighty-one",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹ ska¹ yka²⁴ nk7a⁴²: ochenta y uno árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹⁴ tkwa²⁰",
-		"numero": 82,
-		"Espanol": "ochenta y dos",
-		"English": "Inglés: eighty-two",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹⁴ tkwa²⁰ yka²⁴ nk7a⁴²: ochenta y dos árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹⁴ sna²⁰",
-		"numero": 83,
-		"Espanol": "ochenta y tres",
-		"English": "Inglés: eighty-three",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹⁴ sna²⁰ yka²⁴ nk7a⁴²: ochenta y tres árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹⁴ ja²⁰ kwa²⁴",
-		"numero": 84,
-		"Espanol": "ochenta y cuatro",
-		"English": "Inglés: eighty-four",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹⁴ ja²⁰ kwa²⁴ yka²⁴ nk7a⁴²: ochenta y cuatro árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ 7yu¹",
-		"numero": 85,
-		"Espanol": "ochenta y cinco",
-		"English": "Inglés: eighty-five",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ 7yu¹ yka²⁴ nk7a⁴² ochenta y cinco árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹⁴ skwa²⁰",
-		"numero": 86,
-		"Espanol": "ochenta y seis",
-		"English": "Inglés: eighty-six",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹⁴ skwa²⁰ yka²⁴ nk7a⁴²: ochenta y seis árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹⁴ kti²⁰",
-		"numero": 87,
-		"Espanol": "ochenta y siete",
-		"English": "Inglés: eighty-seven",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹⁴ kti²⁰ yka²⁴ nk7a⁴²: ochenta y siete árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹⁴ sno7²⁰",
-		"numero": 88,
-		"Espanol": "ochenta y ocho",
-		"English": "Inglés: eighty-eight",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹⁴ sno7²⁰ yka²⁴ nk7a⁴²: ochenta y ocho árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² ndwa¹⁴ kaa²⁰",
-		"numero": 89,
-		"Espanol": "ochenta y nueve",
-		"English": "Inglés: eighty-nine",
-		"example": "Ej.: ja⁴ kwa⁴ yla² ndwa¹⁴ ka²⁰ yka²⁴ nk7a⁴²: ochenta y nueve árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ ti¹",
-		"numero": 90,
-		"Espanol": "noventa",
-		"English": "Inglés: ninety",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ ti¹ yka²⁴ nk7a⁴² noventa árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ xka³²",
-		"numero": 91,
-		"Espanol": "noventa y uno",
-		"English": "Inglés: ninety-one",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ xka³² yka²⁴ nk7a⁴² :noventa y uno árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ tykwa²⁰",
-		"numero": 92,
-		"Espanol": "noventa y dos",
-		"English": "Inglés: ninety-two",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ tykwa²⁰ yka²⁴ nk7a⁴² noventa y dos árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ xna²⁰",
-		"numero": 93,
-		"Espanol": "noventa y tres",
-		"English": "Inglés: ninety-three",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ xna²⁰ yka²⁴ nk7a⁴²",
-		"": "noventa y tres árboles verdes."
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ lkwa³²",
-		"numero": 94,
-		"Espanol": "noventa y cuatro",
-		"English": "Inglés: ninety-four",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ ti²⁴ kwa³² yka²⁴ nk7a⁴²",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ 7nyo¹",
-		"numero": 95,
-		"Espanol": "noventa y cinco",
-		"English": "Inglés: ninety-five",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ 7nyo¹ yka²⁴ nk7a⁴²: noventa y cinco árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ xka³²",
-		"numero": 96,
-		"Espanol": "noventa y seis",
-		"English": "Inglés: ninety-six",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ xka³² yka²⁴ nk7a⁴² ",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ tykwa²⁰",
-		"numero": 97,
-		"Espanol": "noventa y siete",
-		"English": "Inglés: ninety-seven",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ tykwa²⁰ yka²⁴ nk7a⁴²  noventa y siete árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ xna²⁰",
-		"numero": 98,
-		"Espanol": "noventa y ocho árboles verdes",
-		"English": "ninety-eight",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ xna²⁰ yka²⁴ nk7a⁴² noventa y ocho árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": " ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ ykwa³²",
-		"numero": 99,
-		"Espanol": "noventa y nueve árboles verdes",
-		"English": "Inglés: ninety-nine",
-		"example": "Ej.: ja⁴ kwa⁴ yla² s7wi¹ 7nyo²⁴ ykwa³² yka²⁴ nk7a⁴²  noventa y nueve árboles verdes.",
-		"": ""
-	},
-	{
-		"Chatino": "ska⁴ se⁴ ntu¹⁰ / 7yu²⁴ yla²",
-		"numero": 100,
-		"Espanol": "cien árboles verdes",
-		"English": "Ej.: ska⁴ se⁴ ntu¹⁰ / 7yu²⁴ yla² yka²⁴ nk7a⁴²: cien árboles verdes.",
+		"Espanol": "cincuenta y dos Ej.: tqwaJ tyiH ndwaB tkwaH ykaJ nkqaG: cincuenta y dos árboles verdes.",
+		"English": "",
 		"example": "",
 		"": ""
+	},
+	{
+		"Chatino": "TqwaJ tyiH ndwaB snaH",
+		"numero": 53,
+		"Espanol": "ciencuenta y tres Ej.: tqwaJ tyiH ndwaB snaH ykaJ nkqaG: cincuenta y tres árboles verdes.",
+		"English": "",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "TqwaJ tyiH ndwaB jaH kwaJ",
+		"numero": 54,
+		"Espanol": "cincuenta y cuatro Ej.: tqwaJ tyiH ndwaB jaH kwaJ ykaJ nkqaG: cincuenta y cuatro árboles verdes.",
+		"English": "",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "TqwaJ qnyoB",
+		"numero": 55,
+		"Espanol": "cincuenta y cinco",
+		"English": "Ej.: tqwaJ qnyoB kaK: cincuenta y cinco vacas.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "TqwaJ tyiH ndwaB skwaH",
+		"numero": 56,
+		"Espanol": "cincuenta y seis",
+		"English": "Ej.: tqwaJ tyiH ndwaB skwaH ykaJ nkqaG: cincuenta y seis árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "TqwaJ tyiH ndwaB ktiH",
+		"numero": 57,
+		"Espanol": "cincuenta y siete Ej.: tqwaJ tyiH ndwaB ktiH ykaJ nkqaG: cincuenta y siete árboles verdes.",
+		"English": "",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "TqwaJ tyiH ndwaB snoqH",
+		"numero": 58,
+		"Espanol": "cincuenta y ocho",
+		"English": "Ej.: tqwaJ tyiH ndwaB snoqH ykaJ nkqaG: cincuenta y ocho árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "TqwaJ tyiH ndwaB kaH",
+		"numero": 59,
+		"Espanol": "cincuenta y nueve",
+		"English": "",
+		"example": "Ej.: tqwaJ tyiH ndwaB kaH ykaJ nkqaG: cincuenta y nueve árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC",
+		"numero": 60,
+		"Espanol": "sesenta",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ykaJ nkqaG. Sesenta árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB skaE",
+		"numero": 61,
+		"Espanol": "sesenta y uno",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ndwaB skaE ykaJ nkqaG: sesenta y uno árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB tkwaH",
+		"numero": 62,
+		"Espanol": "sesenta y dos",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ndwaB tkwaH ykaJ nkqaG: sesenta y dos árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB snaH",
+		"numero": 63,
+		"Espanol": "sesenta y tres",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ndwaB snaH ykaJ nkqaG: sesenta y tres árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB jaH kwaJ",
+		"numero": 64,
+		"Espanol": "sesenta y cuatro",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ndwaB jaH kwaJ ykaJ nkqaG: sesenta y cuatro árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE qyuE",
+		"numero": 65,
+		"Espanol": "sesenta y cinco",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE qyuE ykaJ nkqaG: sesenta y cinco árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB skwaH",
+		"numero": 66,
+		"Espanol": "sesenta y seis",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ndwaB skwaH ykaJ nkqaG: sesenta y seis árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB ktiH",
+		"numero": 67,
+		"Espanol": "sesenta y siete",
+		"English": "",
+		"example": "Ej.: SnaJ ylaC ndwaB ktiH ykaJ nkqaG: sesenta y siete arboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB snoqH",
+		"numero": 68,
+		"Espanol": "sesenta y ocho",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ndwaB snoqH ykaJ nkqaG: sesenta y ocho árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC ndwaB kaH",
+		"numero": 69,
+		"Espanol": "sesenta y nueve",
+		"English": "",
+		"example": "Ej.: snaJ ylaC ndwaB kaH ykaJ nkqaG: sesenta y nueve árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE tiE",
+		"numero": 70,
+		"Espanol": "setenta",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE tiE ykaJ nkqaG: setenta árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE tiJ xkaI",
+		"numero": 71,
+		"Espanol": "setenta y uno",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE tiJ xkaI ykaJ nkqaG: setenta y un árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE tiJ tykwaH",
+		"numero": 72,
+		"Espanol": "setenta y dos",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE tiJ tykwaH ykaJ nkqaG: setenta y dos árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE tiiJ xnaH",
+		"numero": 73,
+		"Espanol": "setenta y tres",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE tiiJ xnaH ykaJ nkqaG: setenta y tres árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE tiJ ykwaI",
+		"numero": 74,
+		"Espanol": "setenta y cuatro",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE tiJ ykwaI ykaJ nkqaG: setenta y cuatro árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE qnyoE",
+		"numero": 75,
+		"Espanol": "setenta y cinco",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE qnyoE ykaJ nkqaG: setenta y cinco árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE qnyoE xkaI",
+		"numero": 76,
+		"Espanol": "setenta y seis",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE qnyoE xkaI ykaJ nkqaG: setenta y seis árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE qnyoJ tykwaH",
+		"numero": 77,
+		"Espanol": "setenta y siete",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE qnyoJ tykwaH ykaJ nkqaG",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE qnyoJ xnaH",
+		"numero": 78,
+		"Espanol": "setenta y ocho",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE qnyoJ xnaH ykaJ nkqaG setenta y ocho árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "SnaJ ylaC sqwiE qnyoJ ykwaI",
+		"numero": 79,
+		"Espanol": "setenta y nueve",
+		"English": "",
+		"example": "Ej.: snaJ ylaC sqwiE qnyoJ ykwaI ykaJ nkqaG setenta y nueve árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC",
+		"numero": 80,
+		"Espanol": "ochenta",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC ykaJ nkqaG: ochenta árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC ndwaE skaE",
+		"numero": 81,
+		"Espanol": "ochenta y uno",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC ndwaE skaE ykaJ nkqaG: ochenta y uno árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC ndwaB tkwaH 82",
+		"numero": 82,
+		"Espanol": " ocenta y dos",
+		"English": "Ej.: jaA kwaA ylaC ndwaB tkwaH ykaJ nkqaG: ochenta y dos árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC ndwaB snaH 83",
+		"numero": 83,
+		"Espanol": "ocenta y tres",
+		"English": "Ej.: jaA kwaA ylaC ndwaB snaH ykaJ nkqaG: ochenta y tres árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC ndwaB jaH kwaJ 84",
+		"numero": 84,
+		"Espanol": "ocenta y cuatro",
+		"English": "Ej.: jaA kwaA ylaC ndwaB jaH kwaJ ykaJ nkqaG: ochenta y cuatro árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "jaA kwaA ylaC sqwiE qyuE 85",
+		"numero": 85,
+		"Espanol": "ocenta y cinco",
+		"English": "Ej.: jaA kwaA ylaC sqwiE qyuE ykaJ nkqaG ochenta y cinco árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC ndwaB skwaH 86",
+		"numero": 86,
+		"Espanol": "ocenta y seis",
+		"English": "Ej.: jaA kwaA ylaC ndwaB skwaH ykaJ nkqaG: ochenta y seis árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC ndwaB ktiH 87",
+		"numero": 87,
+		"Espanol": "ocenta y siete",
+		"English": "Ej.: jaA kwaA ylaC ndwaB ktiH ykaJ nkqaG: ochenta y siete árboles verdes.",
+		"example": "",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC ndwaB snoqH",
+		"numero": 88,
+		"Espanol": "ochenta y ocho",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC ndwaB snoqH ykaJ nkqaG: ochenta y ocho árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "]JaA kwaA ylaC ndwaB kaH ykaJ",
+		"numero": 89,
+		"Espanol": "ochenta y nueve",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC ndwaB kaH ykaJ nkqaG: ochenta y nueve árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE tiE",
+		"numero": 90,
+		"Espanol": "noventa",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE tiE ykaJ nkqaG noventa árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE tiJ xkaI",
+		"numero": 91,
+		"Espanol": "noventa y uno",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE tiJ xkaI ykaJ nkqaG :noventa y un árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE tiJ tykwaH",
+		"numero": 92,
+		"Espanol": "noventa y dos",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE tiJ tykwaH ykaJ nkqaG noventa y dos árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE tiJ xnaH",
+		"numero": 93,
+		"Espanol": "noventa y tres",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE tiJ xnaH ykaJ nkqaG",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE tiJ lkwaI",
+		"numero": 94,
+		"Espanol": "noventa y cuatro",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE tiJ kwaI ykaJ nkqaG",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE qnyoE",
+		"numero": 95,
+		"Espanol": "noventa y cinco",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE qnyoE ykaJ nkqaG: noventa y cinco árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE qnyoJ xkaI",
+		"numero": 96,
+		"Espanol": "noventa  y seis",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE qnyoJ xkaI ykaJ nkqaG",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE qnyoJ tykwaH",
+		"numero": 97,
+		"Espanol": "noventa y siete",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE qnyoJ tykwaH ykaJ nkqaG noventa y siete árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "jaA kwaA ylaC sqwiE qnyoJ xnaH",
+		"numero": 98,
+		"Espanol": "noventa y ocho",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE qnyoJ xnaH ykaJ nkqaG noventa y ocho árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "JaA kwaA ylaC sqwiE qnyoJ lkwaI",
+		"numero": 99,
+		"Espanol": "noventa  y nueve",
+		"English": "",
+		"example": "Ej.: jaA kwaA ylaC sqwiE qnyoJ ykwaI ykaJ nkqaG noventa y nueve árboles verdes.",
+		"": ""
+	},
+	{
+		"Chatino": "QyuJ ylaC",
+		"numero": 100,
+		"Espanol": "cien",
+		"English": "",
+		"example": "Ej.: QyuJ ylaC ykaE nkqaG",
+		"": "cien arboles verdes"
 	}
 ]
