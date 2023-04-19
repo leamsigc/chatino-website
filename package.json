@@ -59,7 +59,7 @@
 		"unplugin-auto-import": "^0.9.3",
 		"unplugin-icons": "^0.14.7",
 		"unplugin-vue-components": "0.21.1",
-		"unplugin-vue-router": "^0.0.21",
+		"unplugin-vue-router": "^0.5.5",
 		"vfonts": "^0.0.3",
 		"vite": "^3.0.0",
 		"vite-plugin-pages": "^0.28.0",
